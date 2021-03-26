@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="uc_unsplash_api",
+    name="ucraft_unsplash_api",
     version="1.0",
     description="A Python client for the Unsplash API.",
     license="MIT",
