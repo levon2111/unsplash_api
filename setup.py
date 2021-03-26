@@ -10,7 +10,7 @@ setup(
     license="MIT",
     author="UC",
     author_email="",
-    url="http://github.com/yakupadakli/python-unsplash.git",
+    url="https://github.com/levon2111/unsplash_api.git",
     packages=find_packages(exclude=["tests"]),
     install_requires=[
         "oauthlib==2.0.1",
