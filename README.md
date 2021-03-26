@@ -12,8 +12,8 @@ is by using pip/easy_install to pull it from PyPI:
 You may also use Git to clone the repository from
 Github and install it manually:
 
-    git clone https://github.com/yakupadakli/python-unsplash.git
-    cd python-unsplash
+    git clone https://github.com/levon2111/unsplash_api.git
+    cd unsplash_api
     python setup.py install
 
 Python 2.7, 3.4, 3.5 and 3.6, is supported for now.
